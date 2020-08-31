@@ -11,7 +11,7 @@
 0x12345
 ![process's address space](https://github.com/ShuoZheLi/MarkDownPhotos/blob/master/process's%20address%20space.PNG?raw=true "process's address space" )
 0x00
-&nbsp;
+
 ![allocated_process_data_into_physical_memory](https://github.com/ShuoZheLi/MarkDownPhotos/blob/master/allocated_process_data_into_physical_memory.PNG?raw=true "allocated_process_data_into_physical_memory")
 
 ##### process state

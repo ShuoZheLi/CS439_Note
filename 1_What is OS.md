@@ -17,7 +17,7 @@
     * File system (no need to tell where to save data on disk), Virtual memory, networking 
 
 
-
+&nbsp;
 #### Evaluating an operating system
 ##### realiability
 * OS does exactly what designed to do

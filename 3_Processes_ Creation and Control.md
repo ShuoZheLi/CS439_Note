@@ -48,4 +48,4 @@ static int x = 2;
 // it can be declared every where in the program
 ```
 ```static variable in static data segment```
-So, not like stack variable get reset each time
+So, not like stack variable that will get reset each time

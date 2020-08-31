@@ -7,7 +7,7 @@
 * process execution requires:
     * memory contain program code(code segment) and data(other segment)
     * CPU registers
-&nbsp;
+
 0x12345
 ![process's address space](https://github.com/ShuoZheLi/MarkDownPhotos/blob/master/process's%20address%20space.PNG?raw=true "process's address space" )
 0x00
